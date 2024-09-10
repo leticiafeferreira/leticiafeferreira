@@ -2,11 +2,9 @@
 
  <a href="https://www.instagram.com/gustavo.feriani/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://mail.google.com/mail/u/0/#inbox">
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
     <img src="https://img.shields.io/badge/-Gmail-00a368?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <div>
-  Loanding Snake Status
-  </div>
+
   <div>
     <picture align="center">    
       <img src="https://github.com/guuhferiani/guuhferiani/blob/main/snake-dark.svg">
