@@ -1,9 +1,11 @@
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&pause=1000&random=false&width=435&lines=Oiee+eu+me+chamo+Leticia+" alt="Typing SVG" /></a>
 
- <a href="https://www.instagram.com/gustavo.feriani/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
-    <img src="https://img.shields.io/badge/-Gmail-00a368?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/_lehcpx/)
+
+
 <h2> 💻🤞: Sobre Mim </h2>
 
 <div>
