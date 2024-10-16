@@ -1,4 +1,4 @@
-<img align="right" alt="" height="380" src="https://media1.giphy.com/media/h408T6Y5GfmXBKW62l/200w.gif?cid=82a1493by0epej94tbxpky64n4s5xaerl92z35y70egnv3lh&ep=v1_gifs_related&rid=200w.gif&ct=g">
+<img align="right" alt="" height="380" src="https://i.pinimg.com/564x/09/fd/23/09fd231db85b2c77924551d921f6caa6.jpg">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&pause=1000&random=false&width=435&lines=Oiee+eu+me+chamo+Leticia+" alt="Typing SVG" /></a>
 
