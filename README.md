@@ -1,6 +1,6 @@
 <img align="right" alt="" height="380" src="https://i.pinimg.com/564x/9f/f4/0f/9ff40fceee222ccc3f73c324b5e4cf00.jpg">
 
-<a href="https://git.io/typing-svg"><img src="" /></a>
+
 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/_lehcpx/)
