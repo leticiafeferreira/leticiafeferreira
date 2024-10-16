@@ -1,6 +1,6 @@
-<img align="right" alt="" height="380" src="">
+<img align="right" alt="" height="380" src="https://i.pinimg.com/564x/9f/f4/0f/9ff40fceee222ccc3f73c324b5e4cf00.jpg">
 
-<a href="https://git.io/typing-svg"><img src="https://i.pinimg.com/originals/a4/04/a4/a404a481f48045b1a24cdbba5cc8d350.gif" /></a>
+<a href="https://git.io/typing-svg"><img src="" /></a>
 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/_lehcpx/)
