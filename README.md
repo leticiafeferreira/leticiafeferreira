@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://i.pinimg.com/736x/bc/ac/18/bcac183fb265e4f8dab91756d8877cd9.jpg">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="[https://i.pinimg.com/736x/bc/ac/18/bcac183fb265e4f8dab91756d8877cd9.jpg](https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775232_640.png)">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&pause=1000&random=false&width=435&lines=Oiee+eu+me+chamo+Leticia+" alt="Typing SVG" /></a>
 
