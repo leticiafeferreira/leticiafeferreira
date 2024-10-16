@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://img.freepik.com/vetores-gratis/laptop-com-icone-de-codigo-isometrico-de-programa-desenvolvimento-de-software-e-aplicacoes-de-programacao-neon-escuro_39422-971.jpg">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&pause=1000&random=false&width=435&lines=Oiee+eu+me+chamo+Leticia+" alt="Typing SVG" /></a>
 
