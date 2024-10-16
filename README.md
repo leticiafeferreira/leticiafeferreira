@@ -1,6 +1,6 @@
 <img align="right" alt="" height="380" src="https://i.pinimg.com/564x/09/fd/23/09fd231db85b2c77924551d921f6caa6.jpg">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&pause=1000&random=false&width=435&lines=Oiee+eu+me+chamo+Leticia+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://i.pinimg.com/originals/a4/04/a4/a404a481f48045b1a24cdbba5cc8d350.gif" /></a>
 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/_lehcpx/)
