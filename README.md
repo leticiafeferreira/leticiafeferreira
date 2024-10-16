@@ -1,5 +1,7 @@
 <img align="right" alt="" height="380" src="https://i.pinimg.com/564x/9f/f4/0f/9ff40fceee222ccc3f73c324b5e4cf00.jpg" >
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/leticia-ferreira-de-freitas/)
+
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/_lehcpx/)
 
 
