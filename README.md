@@ -15,3 +15,12 @@
       <img src="https://github.com/guuhferiani/guuhferiani/blob/main/snake-dark.svg">
     </picture>
 </div>    
+<h2> 💻 Ferramentas e Tecnologias </h2>
+<div>
+  <img src="https://img.shields.io/badge/HTML5-f56320?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-2079f5?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-d0d02f?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Github-1a1e21?style=for-the-badge&logo=github&logoColor=white">
+ 
+  <img src="https://img.shields.io/badge/Canva-5cceff?style=for-the-badge&logo=canva&logoColor=black">
+</div>
