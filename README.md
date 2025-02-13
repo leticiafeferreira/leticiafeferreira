@@ -1,7 +1,7 @@
 <h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Oiee+eu+Sou+a+Leticia+Ferreira.+." alt="Typing SVG" /></a> </h1>
 
 
-<img align="right" alt="" height="95" src="https://i.pinimg.com/originals/66/6c/72/666c72aa8a73f6b15a1fc39224f601f0.gif" >
+<img align="right" alt="" height="91" src="https://i.pinimg.com/originals/66/6c/72/666c72aa8a73f6b15a1fc39224f601f0.gif" >
 
 
 
